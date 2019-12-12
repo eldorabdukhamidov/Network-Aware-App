@@ -1,4 +1,4 @@
-# network_aware_app
+# Network Aware App
 
 A new Flutter application.
 
